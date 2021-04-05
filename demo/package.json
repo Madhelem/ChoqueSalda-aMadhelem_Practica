@@ -1,0 +1,16 @@
+{
+  "name": "practica1",
+  "version": "1.0.0",
+  "description": "Example of typscript with git",
+  "main": "./dist/app.js",
+  "scripts": {
+    "build": "tsc && node ./dist/app.js"
+  },
+  "keywords": [
+    "typescript",
+    "node",
+    "javascript"
+  ],
+  "author": "Madhelem",
+  "license": "MIT"
+}
